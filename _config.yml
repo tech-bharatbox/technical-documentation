@@ -9,9 +9,9 @@ url: "https://tech-bharatbox.github.io/" # the base hostname & protocol for your
 
 # Build settings
 markdown: kramdown
-theme: atom-dark # or any other Jekyll theme you like
+theme: minima # or any other Jekyll theme you like
 plugins:
-  - jekyll-feed # if you want to generate an Atom feed
+  - jekyll-dash # if you want to generate an Atom feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list to override the default setting.
