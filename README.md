@@ -118,7 +118,7 @@ Storage and Data Management:
 
 ![Alt text](image-4.png)
 
-#### [Landing Page](https://bharatbox.sandbox.game/)
+#### Landing Page [link](https://bharatbox.sandbox.game/)
 
 This is the main footfall page for the user where they come to see about what BharatBox is and all the Indian confined elements making it look more authentic to what the name suggests BharatBox. It emphasises on what all you can do in BharatBox such as OWNING A LAND, PLAYING INDIAN EXPERIENCES, CREATING YOUR OWN EXPREINCES etc. Also it showcases your friendly neighbours which are our partners.
 
@@ -126,7 +126,7 @@ This is the main footfall page for the user where they come to see about what Bh
 
 ![Alt text](image-5.png)
 
-#### [Landsale Page](https://bharatbox.sandbox.game/landsale)
+#### Landsale Page [link](https://bharatbox.sandbox.game/landsale)
 This page is dedicated to the sale of virtual land within BharatBox Bharatverse. It includes detailed information about the wholce landsale procedure dates and all within once page. Our partners are also listed here some FAQs and that all.
 
 ---
