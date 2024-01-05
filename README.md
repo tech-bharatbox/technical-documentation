@@ -2,7 +2,6 @@
 
 # BharatBox Technical Documentation
 
-----
 ### Table of Contents:
 Introduction
 
@@ -22,7 +21,6 @@ Third-Party Integrations
 
 Development and Deployment 
 
-----
 
 ## Introduction
 
@@ -59,7 +57,6 @@ The primary purpose of the technical documentation for BharatBox's website devel
 #### Target Audience
 This document is for BharatBox internal team to overview and get the knowledge of what all technical and design things are present in the website. And the Development team who needs to update what’s going on in tech so that future scalability is maintained. And the Design team who can cross check the elements the design essence the components and all that are already created - to maintain and create more in future. The global team of Sandbox they can also have access to this document to see what all things are going on and already developed in BharatBox.
 
-----
 
 ## System Architecture
 
@@ -141,7 +138,6 @@ The website provides a comprehensive overview of BharatBox's features and functi
 _The other pages such as Play, Create, Explore are still under development
 and will be added in future updates._</s>
 
-----
 
 ## Wallet Integration
 
@@ -184,7 +180,6 @@ The provided link to the Komet SDK beta documentation likely contains additional
 
 The combination of secure wallet management, encrypted transactions, and robust authentication and security measures demonstrates BharatBox's commitment to providing a safe and user-friendly environment for its metaverse participants.
 
----
 
 ## User Flow Diagram
 
@@ -356,8 +351,6 @@ Transfers a specified NFT to a user's wallet.
 }
 ```
 
----
-
 ## Security Measures 
 
 BharatBox is dedicated to providing a secure environment for its users by implementing rigorous security protocols across the platform. This commitment to security is evident in every layer of BharatBox's technology stack and operational procedures.
@@ -407,7 +400,6 @@ The wallet architecture within BharatBox has been carefully designed with securi
 
 By adhering to these rigorous security measures and protocols, BharatBox ensures that its platform remains secure, resilient, and trustworthy for its users, developers, and partners.
 
----
 
 ## Third Party Integrations
 
@@ -532,11 +524,8 @@ Mints and transfers an NFT to the provided wallet address, useful for reward dis
 }
 ```
 
----
-
 Third-party developers can utilize these APIs to integrate BharatBox's digital asset and wallet management capabilities into their applications, providing a seamless user experience for accessing NFTs and managing token balances. The above documentation outlines the key integration points, expected request and response formats, and general usage guidelines.
 
----
 
 ## Development and Deployment
 
