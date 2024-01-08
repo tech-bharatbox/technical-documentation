@@ -40,9 +40,6 @@ Let your imagination run wild in the Indian metaverse!
 ##### Hungama World
 Hungama Music is a digital music streaming service and music library based in India. It offers a wide range of Indian and international songs across different languages and genres, including Bollywood, regional, and devotional music.
 
-##### T Series
-T-Series is a music label and film production company based in India. T-Series primarily produces and distributes Bollywood music and Indian pop music, and also produces and distributes Indian films. T-Series has become one of the most popular music labels in India, with a large following on YouTube.
-
 And other IPs are coming soon on BharatBox such as - **Shemaroo**, **Mythoverse**, **IIFA**, **Eros Now**, etc.
 
 #### Purpose of Document
