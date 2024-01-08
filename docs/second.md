@@ -1,3 +1,9 @@
+---
+layout: default
+title: Website + Komet Wallet Integration
+nav_order: 2
+---
+
 ![Alt text](image-1.png)
 
 # BharatBox Technical Documentation
